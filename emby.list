@@ -1,0 +1,32 @@
+# NAME: GitHub
+# AUTHOR: youxiu
+# REPO: https://github.com/HaiFengLoveStudy/ios_rule_script
+# UPDATED: 2024-10-04 16:14:51
+
+# TOTAL: 12
+
+
+;host, www.example.com, direct
+#!Emby-HXD（好鸭机场服）
+DOMAIN-SUFFIX,bili.bili.rip,Emby
+DOMAIN-SUFFIX,cdn.bili.rip,Emby
+DOMAIN-SUFFIX,cf.bili.rip,Emby
+
+#!Emby-JMS（好鸭机场服）
+DOMAIN-SUFFIX,e.niceduck.me,Emby
+
+#!Emby-loser（好鸭机场服）
+DOMAIN-SUFFIX,cf.niceduck.lol,Emby
+#!新增测试
+DOMAIN-SUFFIX,vi.niceduck.lol,Emby
+
+#!Emby-PiliPili（好鸭机场服）
+DOMAIN-SUFFIX,pilicf.niceduck.lol,Emby
+
+#!Emby-飞跃地平线（好鸭机场服）
+DOMAIN-SUFFIX,dpxcdn.niceduck.lol,Emby
+
+DOMAIN-SUFFIX,dpxcdn1.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpx1.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpx1v6.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpx2.niceduck.lol,Emby
