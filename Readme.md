@@ -1,0 +1,1 @@
+自用telegram和Embyios圈X规则
