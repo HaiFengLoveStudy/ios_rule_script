@@ -14,9 +14,12 @@ DOMAIN-SUFFIX,cf.bili.rip,Emby
 
 #!Emby-JMS（好鸭机场服）
 DOMAIN-SUFFIX,e.niceduck.me,Emby
+DOMAIN-SUFFIX,jcf.niceduck.lol,Emby
 
 #!Emby-loser（好鸭机场服）
 DOMAIN-SUFFIX,cf.niceduck.lol,Emby
+DOMAIN-SUFFIX,loacl.emby.moe,Emby
+
 #!新增测试
 DOMAIN-SUFFIX,vi.niceduck.lol,Emby
 
