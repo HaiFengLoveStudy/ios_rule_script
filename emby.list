@@ -3,7 +3,7 @@
 # REPO: https://github.com/HaiFengLoveStudy/ios_rule_script
 # UPDATED: 2024-10-04 16:14:51
 
-# TOTAL: 12
+# TOTAL: 13
 
 
 ;host, www.example.com, direct
@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,cf.bili.rip,Emby
 
 #!Emby-JMS（好鸭机场服）
 DOMAIN-SUFFIX,e.niceduck.me,Emby
-DOMAIN-SUFFIX,jcf.niceduck.lol,Emby
+DOMAIN-SUFFIX,jcf.niceduck.lol,Emby直连
 
 #!Emby-loser（好鸭机场服）
 DOMAIN-SUFFIX,cf.niceduck.lol,Emby
@@ -27,8 +27,7 @@ DOMAIN-SUFFIX,vi.niceduck.lol,Emby
 DOMAIN-SUFFIX,pilicf.niceduck.lol,Emby
 
 #!Emby-飞跃地平线（好鸭机场服）
-DOMAIN-SUFFIX,dpxcdn.niceduck.lol,Emby
-
+DOMAIN-SUFFIX,dpxcdn.niceduck.lol,Emby直连
 DOMAIN-SUFFIX,dpxcdn1.niceduck.lol,Emby
 DOMAIN-SUFFIX,dpx1.niceduck.lol,Emby
 DOMAIN-SUFFIX,dpx1v6.niceduck.lol,Emby
