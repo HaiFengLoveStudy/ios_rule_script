@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,jms2.niceduck.lol,Emby直连
 
 #!Emby-垃圾影音（1111）（好鸭机场服）
 DOMAIN-SUFFIX,cf.niceduck.lol,Emby代理
+DOMAIN-SUFFIX,vi.niceduck.lol,Emby代理
 
 #!Emby-飞跃地平线（好鸭机场服）
 DOMAIN-SUFFIX,dpxcdn.niceduck.lol,Emby代理
