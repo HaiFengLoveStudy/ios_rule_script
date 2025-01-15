@@ -7,7 +7,9 @@
 
 
 ;host, www.example.com, direct
-
+#!Emby-好鸭emby
+Domain-suffix,emby.moe,Emby代理
+Domain-suffix,niceduck.lol,Emby代理
 
 
 #!Emby-卷毛鼠（好鸭机场服）
